@@ -1,0 +1,29 @@
+_repo: The-Brooklyn-murders_73716
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cole, G. D. H. (George Douglas Howard)
+    alias: Cole, George Douglas Howard
+    birthdate: 1889
+    deathdate: 1959
+    gutenberg_agent_id: '43277'
+    url: http://www.gutenberg.org/2009/agents/43277
+description: ''
+gutenberg_issued: '2024-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73716'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/101664799
+pgterms:marc905: 20240323162952cole
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aNew York, NY :$bThomas Seltzer, Inc., $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Brooklyn murders
+url: http://www.gutenberg.org/ebooks/73716
